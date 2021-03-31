@@ -1,0 +1,8 @@
+public static main(string[])
+	console.writeline("hello world");
+	int a = 10;
+	int b = 20;
+	int c =console.readline();
+	console.writeline(a+b+c);
+
+
